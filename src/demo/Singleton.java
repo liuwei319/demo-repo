@@ -1,6 +1,6 @@
 package demo;
 
-class test1{
+class test01{
 	
 }
 
