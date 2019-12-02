@@ -1,5 +1,8 @@
 package demo;
 
+class test1{
+	
+}
 class Singleton01{
 	 private Singleton01() {}
 	 private static Singleton01 instance;
